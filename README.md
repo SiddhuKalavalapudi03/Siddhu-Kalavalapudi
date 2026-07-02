@@ -2,7 +2,7 @@
 
 # Hi there, I'm Siddhu Kalavalapudi 👋
 
-### AI Engineer • Full-Stack Developer • Backend Engineer
+### AI Engineer • Full-Stack Developer • Backend Engineer • Frontend Engineer
 
 Building AI-powered applications, scalable backend systems, and modern web experiences.
 
