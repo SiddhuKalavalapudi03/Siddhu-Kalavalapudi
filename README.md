@@ -1,257 +1,275 @@
-<h1 align="center">Hi 👋, I'm Siddhu Kalavalapudi</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer • Full Stack Developer • Software Engineer
-</h3>
+# Hi there, I'm Siddhu Kalavalapudi 👋
 
-<p align="center">
-Building AI-powered applications, scalable backend systems, and modern web experiences using Python, JavaScript, and Cloud technologies.
+### AI Engineer • Full-Stack Developer • Backend Engineer
+
+Building AI-powered applications, scalable backend systems, and modern web experiences.
+
+Passionate about transforming ideas into intelligent software using AI, cloud technologies, and modern engineering practices.
+
+<p>
+  <a href="mailto:siddhu.kalavalapudi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/kalavalapudi-siddhu">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/SiddhuKalavalapudi03">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=SiddhuKalavalapudi03&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a Software Engineer passionate about building intelligent applications that combine AI with modern software engineering. My primary interests lie in AI engineering, backend development, scalable APIs, and full-stack web applications that solve real-world problems. I enjoy designing reliable systems, integrating Large Language Models into production-ready applications, and continuously improving performance, scalability, and developer experience. I believe great software comes from clean architecture, thoughtful design, and continuous learning.
+
+---
+
+# 🔭 Currently Working On
+
+- 🤖 AI Agents using LLMs
+- 🧠 Retrieval-Augmented Generation (RAG)
+- ⚡ LangChain & Agentic AI Workflows
+- ☁️ Cloud-Native Applications
+- 🚀 Scalable Backend Systems
+- 🔗 REST APIs & Backend Architecture
+- 📊 System Design & Performance Optimization
+- 🔒 Authentication & Secure API Development
+
+---
+
+# 💻 Tech Stack
+
+## 📝 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🎨 Frontend
 
-- 💻 Full Stack Developer passionate about building real-world products
-- 🤖 AI Engineer working with LLMs, AI Agents, and RAG applications
-- 🌐 Experienced in React, Next.js, Python, Node.js, and REST APIs
-- ☁️ Interested in Cloud Computing, DevOps, and System Design
-- 📚 Always learning new technologies
-- 🚀 Open to Software Engineer, AI Engineer, Backend Engineer, and Full Stack Developer opportunities
-
----
-
-## 🌍 Portfolio
-
-Coming Soon...
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+</p>
 
 ---
 
-## 💼 Current Focus
+## ⚙️ Backend
 
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/Authentication-2C8EBB?style=for-the-badge"/>
+</p>
+
+---
+
+## 🤖 AI Engineering
+
+- Large Language Models (LLMs)
 - AI Agents
-- Large Language Models
-- RAG Applications
-- Backend Development
-- Cloud Native Applications
-- System Design
-- Scalable APIs
-
----
-
-# 🛠 Tech Stack
-
-## Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
-
----
-
-## Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
-
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
----
-
-## AI Engineering
-
-- OpenAI API
-- Claude
-- Gemini
-- Prompt Engineering
+- Agentic AI
 - LangChain
-- CrewAI
-- AI Agents
-- RAG
-- Vector Databases
-- Function Calling
-- Embeddings
-- Structured Outputs
-
----
-
-## Machine Learning
-
-- NumPy
-- Pandas
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-
----
-
-## Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-
----
-
-## Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
-
----
-
-## Blockchain
-
-- Solidity
-- Ethers.js
-- Web3.js
-- Smart Contract Security
-
----
-
-## Testing
-
-- Jest
-- React Testing Library
-- Cypress
-- PyTest
-- Test Driven Development
-
----
-
-## Developer Tools
-
-- Git
-- GitHub
-- Postman
-- VS Code
-- Linux
-- Docker Compose
-- GitHub Actions
-- Vercel
-- Railway
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Customer Support Agent
-
-LLM-powered customer support platform with refund automation.
-
-**Tech Stack**
-
-- Next.js
-- OpenAI
-- PostgreSQL
-- Node.js
-
----
-
-## 🎤 GPT Smart Voice Assistant
-
-AI Voice Assistant using OpenAI APIs.
-
-- Speech Recognition
-- Text-to-Speech
+- Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
-- Python
+- AI Workflow Automation
+- OpenAI APIs
+- AI-powered Applications
+- Conversational AI
+- Vector Search
+- Semantic Search
 
 ---
 
-## 📋 Full Stack Task Manager
+## 🧠 Machine Learning
 
-- React
-- Node.js
-- Express
-- MongoDB
-- JWT Authentication
-
----
-
-## ⚡ Smart Grid Energy Monitoring
-
-Real-time IoT energy monitoring platform.
-
-- Python
-- IoT
-- Cloud
-- Analytics
+- Machine Learning
+- Data Analytics
+- Predictive Modeling
+- Model Evaluation
+- Data Preprocessing
+- Feature Engineering
 
 ---
 
-## 📊 Basket Analyzer
+## 🗄️ Databases
 
-Market Basket Analysis using Machine Learning.
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
+</p>
 
-- Python
-- SQL
-- Pandas
-- Scikit-Learn
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/AWS-F90?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions"/>
+</p>
+
+---
+
+## ⛓️ Blockchain
+
+- Blockchain Fundamentals
+- Smart Contract Integration
+- Web3 Concepts
+
+---
+
+## ✅ Testing
+
+- Unit Testing
+- API Testing
+- Postman
+- Debugging
+- Performance Optimization
+
+---
+
+## 🛠️ Developer Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDLC-0A66C2?style=for-the-badge"/>
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+### 🤖 AI Customer Support Agent
+
+AI-powered customer support platform using LLMs, RAG, vector search, and conversational AI to deliver intelligent, context-aware responses.
+
+**Tech Stack:** Python • LangChain • OpenAI • SQLite • Next.js • REST APIs
+
+---
+
+### 🎙️ GPT Smart Voice Assistant
+
+Voice-enabled AI assistant capable of natural conversations, speech recognition, and intelligent task execution.
+
+**Tech Stack:** Python • OpenAI • Speech Recognition • LLMs
+
+---
+
+### 📋 Task Management Platform
+
+Full-stack task management application featuring authentication, REST APIs, role-based access, and responsive UI.
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB • JWT
+
+---
+
+### ⚡ Smart Grid IoT Energy Monitoring
+
+IoT-based energy monitoring platform for real-time data collection, analytics, and cloud dashboards.
+
+**Tech Stack:** Python • IoT • Arduino • Cloud Integration
+
+---
+
+### 🛒 Basket Analyzer
+
+Data analytics application that identifies purchasing patterns and product associations for business insights.
+
+**Tech Stack:** Python • Machine Learning • Data Analytics
+
+---
+
+### 🧠 ML Stroke Risk Prediction
+
+Machine learning model that predicts stroke risk using healthcare datasets and predictive analytics techniques.
+
+**Tech Stack:** Python • Scikit-learn • Pandas • Machine Learning
 
 ---
 
 # 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SiddhuKalavalapudi03&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SiddhuKalavalapudi03&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhuKalavalapudi03&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhuKalavalapudi03&theme=tokyonight&hide_border=true"/>
 
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhuKalavalapudi03&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhuKalavalapudi03&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-# 🌎 Connect With Me
+# 📚 Currently Learning
 
-- 💼 LinkedIn: https://linkedin.com/in/kalavalapudi-siddhu
-- 📧 Email: siddhu.kalavalapudi@gmail.com
+- Advanced LangChain
+- Multi-Agent AI Systems
+- Model Context Protocol (MCP)
+- Kubernetes
+- Distributed Systems
+- Cloud Architecture
+- High-Level System Design
+- Production AI Engineering
 
 ---
 
-## 💡 Quote
+# 🤝 Connect With Me
 
-> "Build products that solve real problems. Keep learning, keep shipping."
+📧 **Email**
 
-⭐ Thanks for visiting my profile!
+**siddhu.kalavalapudi@gmail.com**
+
+🔗 **LinkedIn**
+
+https://linkedin.com/in/kalavalapudi-siddhu
+
+💻 **GitHub**
+
+https://github.com/SiddhuKalavalapudi03
+
+---
+
+# 💡 Philosophy
+
+> **"Build products that solve real problems. Keep learning. Keep shipping."**
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+I'm always excited to collaborate on AI, backend, and full-stack engineering projects.
+
+**Let's build something impactful together. 🚀**
+
+</div>
